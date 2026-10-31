@@ -1,0 +1,3 @@
+window,label,nodes,edges,density,reciprocity,largest_component_pct,communities_total,communities_over_1pct,modularity,ei_index_louvain,ei_index_by_subreddit,pct_edges_crossing_subreddits,nmi_community_vs_subreddit,mean_degree,clustering
+june_2025,June 2025 strikes,84838,251176,3.5e-05,0.2478,100.0,54,20,0.5805,-0.4093,-0.7319,13.4,0.403,5.92,0.0842
+feb_2026,February 2026 strikes,114070,371305,2.9e-05,0.2092,99.998,109,16,0.5226,-0.3827,-0.6936,15.32,0.3598,6.51,0.0885

@@ -1,0 +1,145 @@
+window,subreddit,frame,pct_of_comments
+feb_2026,Conservative,Military events,24.13971807628524
+feb_2026,Conservative,Diplomacy and ceasefire,3.9904643449419566
+feb_2026,Conservative,US domestic politics,16.8014096185738
+feb_2026,Conservative,Legitimacy and morality,3.8557213930348255
+feb_2026,Conservative,Iranian regime and people,11.587893864013267
+feb_2026,Conservative,Israel and regional conflict,9.12106135986733
+feb_2026,Conservative,Economy and energy,5.327529021558872
+feb_2026,Conservative,Nuclear programme,5.1202321724709785
+feb_2026,Conservative,Media and information,5.534825870646766
+feb_2026,Iran,Military events,22.308022308022306
+feb_2026,Iran,Diplomacy and ceasefire,3.260403260403261
+feb_2026,Iran,US domestic politics,10.725010725010724
+feb_2026,Iran,Legitimacy and morality,7.4646074646074645
+feb_2026,Iran,Iranian regime and people,10.296010296010296
+feb_2026,Iran,Israel and regional conflict,16.08751608751609
+feb_2026,Iran,Economy and energy,4.761904761904762
+feb_2026,Iran,Nuclear programme,1.2441012441012442
+feb_2026,Iran,Media and information,6.864006864006863
+feb_2026,Israel,Military events,21.543586896168794
+feb_2026,Israel,Diplomacy and ceasefire,3.62761428835832
+feb_2026,Israel,US domestic politics,8.64334628909865
+feb_2026,Israel,Legitimacy and morality,5.015732000740329
+feb_2026,Israel,Iranian regime and people,14.306866555617251
+feb_2026,Israel,Israel and regional conflict,28.835831945215624
+feb_2026,Israel,Economy and energy,3.590597816028133
+feb_2026,Israel,Nuclear programme,2.2394965759763097
+feb_2026,Israel,Media and information,7.569868591523228
+feb_2026,IsraelPalestine,Military events,31.410064773293474
+feb_2026,IsraelPalestine,Diplomacy and ceasefire,5.680119581464873
+feb_2026,IsraelPalestine,US domestic politics,7.952167414050821
+feb_2026,IsraelPalestine,Legitimacy and morality,17.668161434977577
+feb_2026,IsraelPalestine,Iranian regime and people,13.38315894369706
+feb_2026,IsraelPalestine,Israel and regional conflict,45.82959641255606
+feb_2026,IsraelPalestine,Economy and energy,3.4678624813153958
+feb_2026,IsraelPalestine,Nuclear programme,4.125560538116592
+feb_2026,IsraelPalestine,Media and information,8.978574987543597
+feb_2026,NewIran,Military events,17.75759323337178
+feb_2026,NewIran,Diplomacy and ceasefire,2.4557862360630525
+feb_2026,NewIran,US domestic politics,9.419454056132256
+feb_2026,NewIran,Legitimacy and morality,5.661284121491734
+feb_2026,NewIran,Iranian regime and people,23.351595540176856
+feb_2026,NewIran,Israel and regional conflict,12.636966551326411
+feb_2026,NewIran,Economy and energy,3.063725490196078
+feb_2026,NewIran,Nuclear programme,0.8722606689734718
+feb_2026,NewIran,Media and information,7.158304498269896
+feb_2026,geopolitics,Military events,37.75653218540395
+feb_2026,geopolitics,Diplomacy and ceasefire,8.584442887175893
+feb_2026,geopolitics,US domestic politics,14.130543597957754
+feb_2026,geopolitics,Legitimacy and morality,6.131744919411353
+feb_2026,geopolitics,Iranian regime and people,13.364701171288418
+feb_2026,geopolitics,Israel and regional conflict,19.40634698167985
+feb_2026,geopolitics,Economy and energy,12.043247572329562
+feb_2026,geopolitics,Nuclear programme,5.916508158974873
+feb_2026,geopolitics,Media and information,5.661227350085094
+feb_2026,politics,Military events,21.958112391503985
+feb_2026,politics,Diplomacy and ceasefire,2.9232455490713036
+feb_2026,politics,US domestic politics,25.2978641466955
+feb_2026,politics,Legitimacy and morality,6.145688301685577
+feb_2026,politics,Iranian regime and people,4.094558165713778
+feb_2026,politics,Israel and regional conflict,7.5966466214414785
+feb_2026,politics,Economy and energy,5.062653671831028
+feb_2026,politics,Nuclear programme,2.4836330242616347
+feb_2026,politics,Media and information,4.178688864531801
+feb_2026,worldnews,Military events,26.88077736337309
+feb_2026,worldnews,Diplomacy and ceasefire,4.8837037648111075
+feb_2026,worldnews,US domestic politics,13.19876518016473
+feb_2026,worldnews,Legitimacy and morality,5.548439759114611
+feb_2026,worldnews,Iranian regime and people,7.146237576904875
+feb_2026,worldnews,Israel and regional conflict,10.150357984864339
+feb_2026,worldnews,Economy and energy,7.639036632120078
+feb_2026,worldnews,Nuclear programme,2.9928316190294244
+feb_2026,worldnews,Media and information,3.4682633066599515
+june_2025,Conservative,Military events,27.431982775494223
+june_2025,Conservative,Diplomacy and ceasefire,5.049911920140928
+june_2025,Conservative,US domestic politics,18.408690546095126
+june_2025,Conservative,Legitimacy and morality,3.2002348796241926
+june_2025,Conservative,Iranian regime and people,7.173615188882364
+june_2025,Conservative,Israel and regional conflict,17.762771579565474
+june_2025,Conservative,Economy and energy,2.387942845958113
+june_2025,Conservative,Nuclear programme,13.15325895478567
+june_2025,Conservative,Media and information,5.147778430221178
+june_2025,Iran,Military events,16.32734530938124
+june_2025,Iran,Diplomacy and ceasefire,3.5129740518962076
+june_2025,Iran,US domestic politics,8.223552894211576
+june_2025,Iran,Legitimacy and morality,6.347305389221557
+june_2025,Iran,Iranian regime and people,9.341317365269461
+june_2025,Iran,Israel and regional conflict,22.115768463073852
+june_2025,Iran,Economy and energy,2.714570858283433
+june_2025,Iran,Nuclear programme,2.5948103792415167
+june_2025,Iran,Media and information,7.984031936127744
+june_2025,Israel,Military events,24.158613795401532
+june_2025,Israel,Diplomacy and ceasefire,3.48217260913029
+june_2025,Israel,US domestic politics,7.347550816394535
+june_2025,Israel,Legitimacy and morality,4.465178273908697
+june_2025,Israel,Iranian regime and people,11.97934021992669
+june_2025,Israel,Israel and regional conflict,32.33922025991337
+june_2025,Israel,Economy and energy,1.6994335221592802
+june_2025,Israel,Nuclear programme,7.014328557147617
+june_2025,Israel,Media and information,5.931356214595135
+june_2025,IsraelPalestine,Military events,29.918796592119275
+june_2025,IsraelPalestine,Diplomacy and ceasefire,4.5859957401490945
+june_2025,IsraelPalestine,US domestic politics,4.5094515441959535
+june_2025,IsraelPalestine,Legitimacy and morality,19.255857294994673
+june_2025,IsraelPalestine,Iranian regime and people,8.65615015974441
+june_2025,IsraelPalestine,Israel and regional conflict,51.63405218317359
+june_2025,IsraelPalestine,Economy and energy,1.6340521831735888
+june_2025,IsraelPalestine,Nuclear programme,11.824414270500533
+june_2025,IsraelPalestine,Media and information,7.2716986155484555
+june_2025,NewIran,Military events,16.515668510020788
+june_2025,NewIran,Diplomacy and ceasefire,2.870925991293093
+june_2025,NewIran,US domestic politics,6.596854531905715
+june_2025,NewIran,Legitimacy and morality,7.181237008275483
+june_2025,NewIran,Iranian regime and people,25.920696552535595
+june_2025,NewIran,Israel and regional conflict,20.712240655763424
+june_2025,NewIran,Economy and energy,1.9021845707338119
+june_2025,NewIran,Nuclear programme,3.286661175824607
+june_2025,NewIran,Media and information,6.447817390281209
+june_2025,geopolitics,Military events,40.9594383775351
+june_2025,geopolitics,Diplomacy and ceasefire,8.822152886115445
+june_2025,geopolitics,US domestic politics,10.803432137285492
+june_2025,geopolitics,Legitimacy and morality,6.0920436817472705
+june_2025,geopolitics,Iranian regime and people,10.62402496099844
+june_2025,geopolitics,Israel and regional conflict,32.402496099843994
+june_2025,geopolitics,Economy and energy,5.569422776911077
+june_2025,geopolitics,Nuclear programme,21.638065522620906
+june_2025,geopolitics,Media and information,4.929797191887675
+june_2025,politics,Military events,22.122270159676198
+june_2025,politics,Diplomacy and ceasefire,4.478939643286038
+june_2025,politics,US domestic politics,27.55415202597518
+june_2025,politics,Legitimacy and morality,4.013032068674109
+june_2025,politics,Iranian regime and people,3.0022683805541965
+june_2025,politics,Israel and regional conflict,11.461993506204687
+june_2025,politics,Economy and energy,2.496330560868212
+june_2025,politics,Nuclear programme,7.696926566739314
+june_2025,politics,Media and information,4.7135613574700885
+june_2025,worldnews,Military events,26.935826334970685
+june_2025,worldnews,Diplomacy and ceasefire,4.647124069085724
+june_2025,worldnews,US domestic politics,10.397718269687847
+june_2025,worldnews,Legitimacy and morality,4.797337981302488
+june_2025,worldnews,Iranian regime and people,6.593566788147679
+june_2025,worldnews,Israel and regional conflict,20.212327681825386
+june_2025,worldnews,Economy and energy,3.0619553161147204
+june_2025,worldnews,Nuclear programme,11.507526540960228
+june_2025,worldnews,Media and information,3.532245286008556

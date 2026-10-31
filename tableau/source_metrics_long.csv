@@ -1,0 +1,17 @@
+window,label,metric,value
+june_2025,June 2025 strikes,share_events,10772.0
+feb_2026,February 2026 strikes,share_events,12373.0
+june_2025,June 2025 strikes,unique_domains,1313.0
+feb_2026,February 2026 strikes,unique_domains,1599.0
+june_2025,June 2025 strikes,subreddits,8.0
+feb_2026,February 2026 strikes,subreddits,8.0
+june_2025,June 2025 strikes,mean_pairwise_source_overlap,0.6907
+feb_2026,February 2026 strikes,mean_pairwise_source_overlap,0.6158
+june_2025,June 2025 strikes,min_pairwise_source_overlap,0.4187
+feb_2026,February 2026 strikes,min_pairwise_source_overlap,0.3767
+june_2025,June 2025 strikes,mean_source_concentration_gini,0.9424
+feb_2026,February 2026 strikes,mean_source_concentration_gini,0.9451
+june_2025,June 2025 strikes,domains_shared_by_all_subs,5.0
+feb_2026,February 2026 strikes,domains_shared_by_all_subs,4.0
+june_2025,June 2025 strikes,domains_exclusive_to_one_sub,964.0
+feb_2026,February 2026 strikes,domains_exclusive_to_one_sub,1200.0

@@ -1,0 +1,26 @@
+# Raw archive dumps and processed tables are large and reproducible from
+# the scripts; keep them out of the repository.
+data/
+*.gexf
+
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*.doc*
+
+# Coding workbooks and reading dumps quote Reddit comments.
+qualitative/*.xlsx
+qualitative/*.txt
+qualitative/*.md
+
+# Course-specific submission artifacts — kept locally, not tracked here.
+Handout*.pdf
+Flywheel*.pdf
+reports/final/
+archive/
+reports/viva_prep.md
+reports/progress_vs_plan.md
+reports/demo_script.md
+reports/phase2_report_draft.md
+reports/CSMA_Phase2_Report_Draft.docx

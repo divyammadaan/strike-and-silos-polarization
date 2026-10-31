@@ -1,0 +1,19 @@
+field,code,definition
+primary_frame,Military events,"What happened or may happen militarily: strikes, retaliation, weapons, casualties, escalation risk."
+primary_frame,Diplomacy and ceasefire,"Negotiations, ceasefire claims, allies and international responses."
+primary_frame,US domestic politics,"Trump, Congress, war powers, parties, elections, trust in US leaders."
+primary_frame,Legitimacy and morality,"Whether the action is justified, legal or ethical; civilian harm; hypocrisy."
+primary_frame,Iranian regime and people,"Regime change, repression, protests, hopes or fears of Iranians and the diaspora."
+primary_frame,Israel and regional conflict,"Israel's role and interests, links to Gaza, Lebanon, Gulf states and other regional actors."
+primary_frame,Economy and energy,"Oil, the Strait of Hormuz, markets, prices, cost of war."
+primary_frame,Nuclear programme,"Enrichment, weapons capability, damage to nuclear sites, proliferation."
+primary_frame,Media and information,"Credibility of sources, propaganda, misinformation, bots, moderation."
+primary_frame,Other,"None of the above; say what in the notes column."
+stance_on_strikes,Mostly supportive,The visible comments mostly back the strikes on Iran.
+stance_on_strikes,Mostly opposed,The visible comments mostly oppose or criticise the strikes.
+stance_on_strikes,Mixed,Support and opposition are both clearly present.
+stance_on_strikes,Not evident,The comments do not take a side on the strikes.
+tone,One-sided,Commenters largely agree with each other; little challenge.
+tone,Disagreement,Opposing views argued without mainly attacking people.
+tone,Hostile,"Opposing views with insults, dehumanising language or personal attacks."
+tone,Informational,"Mostly questions, updates or jokes rather than argument."
